@@ -108,6 +108,7 @@ Preview:
 
 ### Blockquotes
 HTML Tag: `<blockquote>`
+HTML Tag: `<<D>><<M>>`
 
 Markdown uses email-style **>** characters for blockquoting. It looks best if you hard wrap the text and put a > before every line.
 
